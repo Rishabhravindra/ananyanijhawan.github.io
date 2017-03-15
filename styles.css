@@ -1,0 +1,25 @@
+.nav-link {
+  color: darkslategray;
+}
+
+.nav-link:hover {
+  color: darkgray;
+	font-weight: bold;
+}
+
+.nav-link:visited {
+  color: darkslategray;
+}
+
+.nav-link:active {
+    color: darkslategray;
+		font-weight: bold;
+}
+
+.menu-burger-bars {
+	background-color: white;
+}
+
+.footer {
+  background-color: black;
+}
