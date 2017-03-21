@@ -1,27 +1,51 @@
-body {
-  font-family: 'Open Sans', sans-serif;
+.main-content {
+  padding-top: 8%;
+  height: 70vh;
 }
 
-.nav-link {
-  color: darkslategray;
+.dp {
+  border-radius: 50%;
+  height: 200px;
+  width: auto;
 }
 
-.nav-link:hover {
+h1 {
   color: #7c3350;
 }
 
-.nav-link:visited {
+.bio-text {
+  line-height: 26px;
+  padding-bottom: 1rem;
+}
+
+.in-text-link {
+  color: #7c3350;
+}
+
+.in-text-link:hover {
+  text-decoration: none;
   color: darkslategray;
 }
 
-.nav-link:active {
-    color: #7c3350;
+.in-text-link:visited {
+  color: darkslategray;
 }
 
-.menu-burger-bars {
-	background-color: white;
+.in-text-link:active {
+  color: darkslategray;
 }
 
-.footer {
-  background-color: black;
+.text-muted:hover {
+  text-decoration: none;
+  color: #7c3350;
+}
+
+.text-muted:visited {
+  text-decoration: none;
+  color: darkslategray;
+}
+
+.text-muted:active {
+  text-decoration: none;
+  color: #7c3350;
 }
