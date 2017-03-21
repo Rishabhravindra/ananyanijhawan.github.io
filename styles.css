@@ -1,10 +1,13 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .nav-link {
   color: darkslategray;
 }
 
 .nav-link:hover {
-  color: darkgray;
-	font-weight: bold;
+  color: #7c3350;
 }
 
 .nav-link:visited {
@@ -12,8 +15,7 @@
 }
 
 .nav-link:active {
-    color: darkslategray;
-		font-weight: bold;
+    color: #7c3350;
 }
 
 .menu-burger-bars {
