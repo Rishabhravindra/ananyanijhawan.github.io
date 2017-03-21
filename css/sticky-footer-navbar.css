@@ -1,0 +1,40 @@
+html {
+    position: relative;
+    min-height: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    margin: 0 0 50px; /* bottom = footer height */
+}
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+}
+
+
+.nav-link {
+  color: darkslategray;
+}
+
+.nav-link:hover {
+  color: #7c3350;
+}
+
+.nav-link:visited {
+  color: darkslategray;
+}
+
+.nav-link:active {
+    color: #7c3350;
+}
+
+.menu-burger-bars {
+	background-color: white;
+}
+
+.footer {
+  background-color: black;
+}

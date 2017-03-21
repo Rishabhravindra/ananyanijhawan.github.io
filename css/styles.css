@@ -1,0 +1,51 @@
+.main-content {
+  padding-top: 8%;
+  height: 70vh;
+}
+
+.dp {
+  border-radius: 50%;
+  height: 200px;
+  width: auto;
+}
+
+h1 {
+  color: #7c3350;
+}
+
+.bio-text {
+  line-height: 26px;
+  padding-bottom: 1rem;
+}
+
+.in-text-link {
+  color: #7c3350;
+}
+
+.in-text-link:hover {
+  text-decoration: none;
+  color: darkslategray;
+}
+
+.in-text-link:visited {
+  color: darkslategray;
+}
+
+.in-text-link:active {
+  color: darkslategray;
+}
+
+.text-muted:hover {
+  text-decoration: none;
+  color: #7c3350;
+}
+
+.text-muted:visited {
+  text-decoration: none;
+  color: darkslategray;
+}
+
+.text-muted:active {
+  text-decoration: none;
+  color: #7c3350;
+}
